@@ -1,0 +1,5 @@
+Dog model contains 23 seperate animations.
+All animations are also included in 3ds studio max file.
+If you want to mod animation or add your own and in doubt check this manual section 
+"Importing Animations using multiple model files"
+https://docs.unity3d.com/Manual/Splittinganimations.html
